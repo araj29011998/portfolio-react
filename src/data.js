@@ -5,6 +5,7 @@ export const testimonials = [
     image: "./srib.png",
     name: "Long Call Timer Analysis",
     company: "Samsung bangalore",
+    link:"https://drive.google.com/file/d/1xrLMHDMGdlmHpWKGlPOCjOmcqBmnJB4Y/view?usp=sharing",
   },
   {
     quote:
@@ -12,6 +13,7 @@ export const testimonials = [
     image: "./codechef.png",
     name: "Automation Bot",
     company: "Codechef",
+    link:"https://github.com/araj29011998/Codechef-Solution-Automation",
   },
 ];
 
